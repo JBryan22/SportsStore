@@ -1,0 +1,16 @@
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb
