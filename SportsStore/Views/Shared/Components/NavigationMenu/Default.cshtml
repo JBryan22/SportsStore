@@ -1,0 +1,19 @@
+﻿@model NavigationMenuViewViewModel
+
+<a class="btn btn-block @(Model.SelectedCategory == null ? "btn-primary" : "btn-secondary")"
+   asp-action="List"
+   asp-controller="Product"
+   asp-route-category="">
+    Home
+</a>
+
+@foreach (string category in Model.Categories)
+{
+    <a class="btn btn-block @(category == Model.SelectedCategory ? "btn-primary": "btn-secondary")"
+       asp-action="List"
+       asp-controller="Product"
+       asp-route-category="@category"
+       asp-route-productPage="1">
+        @category
+    </a>
+}
