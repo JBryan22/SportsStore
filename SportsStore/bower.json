@@ -2,6 +2,7 @@
   "name": "asp.net",
   "private": true,
   "dependencies": {
-    "bootstrap": "4.0.0-alpha.6"
+    "bootstrap": "4.0.0-alpha.6",
+    "fontawesome": "4.7.0"
   }
 }
