@@ -9,7 +9,7 @@ using Xunit;
 
 namespace SportsStore.Tests
 {
-    class OrderControllerTests
+    public class OrderControllerTests
     {
         [Fact]
         public void Cannot_Checkout_Empty_Cart()
@@ -59,10 +59,6 @@ namespace SportsStore.Tests
         [Fact]
         public void Can_Checkout_And_Submit_Order()
         {
-            //This makes sure that an order with a non-empty cart still doesn't allow a user to checkout if their shipping details have not been filled out
-            //it checks the same 3 as above, but this time we add an item to the cart (making it valid) but add an error to the model state (making ModelState.IsValid false)
-            //thus it should not call saveorder
-
             //Arrange
             Mock<IOrderRepository> mock = new Mock<IOrderRepository>();
             Cart cart = new Cart();
