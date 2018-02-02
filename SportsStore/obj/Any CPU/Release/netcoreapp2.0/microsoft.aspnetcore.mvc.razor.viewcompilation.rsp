@@ -1,0 +1,20 @@
+C:\Users\Jesse\Source\Repos\SportsStore\SportsStore
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=SportsStore
+--content-root=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Account\Login.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Admin\Edit.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Admin\Index.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Cart\Index.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Error\Error.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Order\Checkout.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Order\Completed.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Order\List.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Product\List.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Shared\Components\CartSummary\Default.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Shared\Components\NavigationMenu\Default.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Shared\ProductSummary.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Shared\_AdminLayout.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\Shared\_Layout.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\_ViewImports.cshtml
+--file=C:\Users\Jesse\Source\Repos\SportsStore\SportsStore\Views\_ViewStart.cshtml

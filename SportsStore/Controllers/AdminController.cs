@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SportsStore.Models;
 
@@ -9,6 +10,7 @@ using SportsStore.Models;
 
 namespace SportsStore.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         private IProductRepository repository;
@@ -37,6 +39,13 @@ namespace SportsStore.Controllers
                 //there is something wrong with the data values
                 return View(product);
             }
+        }
+
+        [HttpPost]
+        public IActionResult SeedDatabase()
+        {
+            SeedData.EnsurePopulated(HttpContext.RequestServices);
+            return RedirectToAction(nameof(Index));
         }
     }
 }
